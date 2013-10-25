@@ -1,0 +1,16 @@
+
+<div class="all-posts">
+
+<div class="post-name">
+${post-name}
+</div>
+
+<div class="post-edit">
+${post-edit}
+</div>
+
+<div class="post-delete">
+${post-delete}
+</div>
+
+</div>
